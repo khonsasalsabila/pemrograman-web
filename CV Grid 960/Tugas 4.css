@@ -1,0 +1,676 @@
+#profile
+{
+	position: absolute;
+	width: 240px;
+	height: 240px;
+	left: 625px;
+	top: 138px;
+	border-radius: 120px;
+}
+
+@font-face
+{
+    font-family: Concert One;
+    src: url(ConcertOne-Regular.ttf);
+}
+
+.text-1
+{
+	position: absolute;
+	width: 244px;
+	height: 150px;
+	left: 33px;
+	top: 28px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 21px;
+
+	color: #DCDCDC;
+}
+
+#rectangle-1
+{
+	position: absolute;
+	width: 301px;
+	height: 240px;
+	left: 80px;
+	top: 138px;
+
+	background: #696969;
+}
+
+.text-2
+{
+	position: absolute;
+	width: 250px;
+	height: 171px;
+	left: 30px;
+	top: 4px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 21px;
+
+	color: #DCDCDC;
+
+}
+
+#rectangle-2
+{
+	position: absolute;
+	width: 295px;
+	height: 240px;
+	left: 1060px;
+	top: 143px;
+
+	background: #696969;
+}
+
+.text-instagram
+{
+	position: absolute;
+	width: 149px;
+	height: 17px;
+	left: 124px;
+	top: 494px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 17px;
+
+	color: #F0FFF0;
+}
+
+.text-twitter
+{
+	position: absolute;
+	width: 169px;
+	height: 12px;
+	left: 669px;
+	top: 494px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 17px;
+
+	color: #F0FFF0;
+}
+
+.text-line
+{
+	position: absolute;
+	width: 120px;
+	height: 13px;
+	left: 1244px;
+	top: 494px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 17px;
+
+	color: #F0FFF0;
+
+}
+
+#instagram
+{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 80px;
+	top: 507px;
+}
+
+#twitter
+{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 625px;
+	top: 507px;
+}
+
+#line
+{
+	position: absolute;
+	width: 42px;
+	height: 40px;
+	left: 1200px;
+	top: 507px;
+}
+
+.academic
+{
+	position: absolute;
+	width: 320px;
+	height: 28px;
+	left: 80px;
+	top: 594px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 28px;
+
+	color: #696969;
+}
+
+.text-sd
+{
+	position: absolute;
+	width: 170px;
+	height: 48px;
+	left: 160px;
+	top: 725px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+
+	color: #696969;
+}
+
+.text-smp
+{
+	position: absolute;
+	width: 170px;
+	height: 48px;
+	left: 464px;
+	top: 902px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+
+	color: #696969;
+}
+
+.text-sma
+{
+	position: absolute;
+	width: 170px;
+	height: 48px;
+	left: 772px;
+	top: 725px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+
+	color: #696969;
+}
+
+.text-universitas
+{
+	position: absolute;
+	width: 192px;
+	height: 48px;
+	left: 1080px;
+	top: 896px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+
+	color: #696969;
+}
+
+#line-1
+{
+	position: absolute;
+	width: 300px;
+	height: 0px;
+	left: 80px;
+	top: 663px;
+
+	border: 2px solid #696969;
+}
+
+#line-2
+{
+	position: absolute;
+	width: 620px;
+	height: 0px;
+	left: 415px;
+	top: 663px;
+
+	border: 2px solid #696969;
+}
+
+#line-3
+{
+	position: absolute;
+	width: 1230px;
+	height: 0px;
+	left: 80px;
+	top: 839.84px;
+
+	border: 12px solid #696969;
+	transform: rotate(0.02deg);
+}
+
+#line-4
+{
+	position: absolute;
+	width: 40px;
+	height: 0px;
+	left: 216px;
+	top: 828px;
+
+	border: 8px solid #DAA520;
+	transform: rotate(-90deg);
+}
+
+#line-5
+{
+	position: absolute;
+	width: 40px;
+	height: 0px;
+	left: 520px;
+	top: 860px;
+
+	border: 8px solid #DAA520;
+	transform: rotate(-90deg);
+}
+
+#line-6
+{
+	position: absolute;
+	width: 40px;
+	height: 0px;
+	left: 830px;
+	top: 828px;
+
+	border: 8px solid #DAA520;
+	transform: rotate(-90deg);
+}
+
+#line-7
+{
+	position: absolute;
+	width: 40px;
+	height: 0px;
+	left: 1150px;
+	top: 860px;
+
+	border: 8px solid #DAA520;
+	transform: rotate(-90deg);
+
+}
+
+.hobby
+{
+	position: absolute;
+	width: 97px;
+	height: 28px;
+	left: 80px;
+	top: 1020px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 28px;
+	
+	color: #696969;
+}
+
+#line-8
+{
+	position: absolute;
+	width: 100px;
+	height: 0px;
+	left: 80px;
+	top: 1090px;
+
+	border: 2px solid #696969;
+}
+
+#line-9
+{
+	position: absolute;
+	width: 100px;
+	height: 0px;
+	left: 210px;
+	top: 1090px;
+
+	border: 2px solid #696969;
+}
+
+.text-book
+{
+	position: absolute;
+	width: 151px;
+	height: 17px;
+	left: 170px;
+	top: 1110px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 17px;
+	text-align: center;
+
+	color: #696969;
+}
+
+.text-movie
+{
+	position: absolute;
+	width: 144px;
+	height: 34px;
+	left: 180px;
+	top: 1188px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 17px;
+
+	color: #696969;
+}
+
+.text-music
+{
+	position: absolute;
+	width: 97px;
+	height: 34px;
+	left: 180px;
+	top: 1260px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 17px;
+
+	color: #696969;
+
+}
+
+#book
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 80px;
+	top: 1110px;
+}
+
+#movie
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 80px;
+	top: 1190px;
+}
+
+#music
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 80px;
+	top: 1270px;
+}
+
+.abilities
+{
+	position: absolute;
+	width: 144px;
+	height: 28px;
+	left: 530px;
+	top: 1020px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 28px;
+
+	color: #696969;
+}
+
+#line-10
+{
+	position: absolute;
+	width: 160px;
+	height: 0px;
+	left: 530px;
+	top: 1090px;
+
+	border: 2px solid #696969;
+}
+
+#line-11
+{
+	position: absolute;
+	width: 120px;
+	height: 0px;
+	left: 720px;
+	top: 1090px;
+
+	border: 2px solid #696969;
+}
+
+.text-leadership
+{
+	position: absolute;
+	width: 121px;
+	height: 20px;
+	left: 630px;
+	top: 1110px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 20px;
+
+	color: #696969;
+}
+
+.text-publicspeaking
+{
+	position: absolute;
+	width: 179px;
+	height: 20px;
+	left: 630px;
+	top: 1185px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 20px;
+
+	color: #696969;
+}
+
+.text-teamwork
+{
+	position: absolute;
+	width: 112px;
+	height: 20px;
+	left: 630px;
+	top: 1270px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 20px;
+
+	color: #696969;
+}
+
+#leadership
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 530px;
+	top: 1110px;
+}
+
+#publicspeaking
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 530px;
+	top: 1190px;
+}
+
+#teamwork
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 530px;
+	top: 1270px;
+}
+
+.contacts
+{
+	position: absolute;
+	width: 155px;
+	height: 28px;
+	left: 1048px;
+	top: 1020px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 28px;
+
+	color: #696969;
+}
+
+#line-12
+{
+	position: absolute;
+	width: 160px;
+	height: 0px;
+	left: 1048px;
+	top: 1090px;
+
+	border: 2px solid #696969;
+}
+
+#line-13
+{
+	position: absolute;
+	width: 80px;
+	height: 0px;
+	left: 1240px;
+	top: 1090px;
+
+	border: 2px solid #696969;
+}
+
+.text-phone
+{
+	position: absolute;
+	width: 120px;
+	height: 16px;
+	left: 1125px;
+	top: 1110px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 16px;
+
+	color: #696969;
+}
+
+.text-email
+{
+	position: absolute;
+	width: 166px;
+	height: 32px;
+	left: 1125px;
+	top: 1180px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 16px;
+
+	color: #696969;
+}
+
+.text-alamat
+{
+	position: absolute;
+	width: 169px;
+	height: 32px;
+	left: 1125px;
+	top: 1264px;
+
+	font-family: 'Concert One';
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 16px;
+
+	color: #696969;
+}
+
+#phone
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1048px;
+	top: 1110px;
+}
+
+#email
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1048px;
+	top: 1190px;
+}
+
+#alamat
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1048px;
+	top: 1270px;
+}
